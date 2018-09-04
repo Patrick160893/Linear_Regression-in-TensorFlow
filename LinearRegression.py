@@ -6,7 +6,6 @@ import matplotlib.pyplot as plt
 projectDir = os.path.dirname(os.path.realpath(__file__))
 
 # TRAFFIC
-# df = pd.read_excel(projectDir + '/slr05.xls')
 # df.dropna(inplace=True)
 # learningRate = 0.001
 # numEpochs = 5000
